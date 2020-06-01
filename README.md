@@ -3,3 +3,5 @@ Serie de ejercicios para practicar en jupyter notebook.
 Primera parte https://platzi.com/blog/ejercicios-programacion/ 
 Segunda parte https://platzi.com/blog/ejercicios-programacion-condicionales/
 Tercera parte https://platzi.com/blog/ejercicios-programacion-strings/
+
+En proceso de correcciones...
