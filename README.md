@@ -1,7 +1,10 @@
-# nunca_pares_de_programar
-Serie de ejercicios para practicar en jupyter notebook.
-Primera parte https://platzi.com/blog/ejercicios-programacion/ 
-Segunda parte https://platzi.com/blog/ejercicios-programacion-condicionales/
-Tercera parte https://platzi.com/blog/ejercicios-programacion-strings/
+# Nunca pares de programar
+_Serie de ejercicios para practicar en Python_
 
-En proceso de correcciones...
+### Links a los retos de Platzi
+**Primera parte** https://platzi.com/blog/ejercicios-programacion/ 
+**Segunda parte** https://platzi.com/blog/ejercicios-programacion-condicionales/
+**Tercera parte** https://platzi.com/blog/ejercicios-programacion-strings/
+**Cuarta parte** https://platzi.com/blog/ejercicios-programacion-matematicas/
+
+En proceso de mejorar :)
