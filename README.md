@@ -1,5 +1,4 @@
 # Nunca pares de programar
-_Serie de ejercicios para practicar en culaquier lenguaje de programación_
 Éstas son mis respuestas, en Python, a los retos propuestos por Platzi.
 
 ### Links a los retos originales de Platzi 🚀
